@@ -1,6 +1,6 @@
 # EPFL CS-433 Machine Learning
 
-Working through the exercises from EPFL's [CS-433 Machine Learning](https://www.epfl.ch/labs/mlo/machine-learning-cs-433/) course (Fall 2025) as part of my self-directed study in machine learning fundamentals.
+Working through the exercises from EPFL's [CS-433 Machine Learning](https://epfml.github.io/cs433-2025/) course (Fall 2025) as part of my self-directed study in machine learning fundamentals.
 
 ## Exercise Progress
 
