@@ -1,3 +1,16 @@
+# Course materials (keeping only exercises I worked on)
+exam/
+lectures/
+projects/
+labs/ex03/
+labs/ex04/
+labs/ex05/
+labs/ex06/
+labs/ex07/
+labs/ex08/
+labs/ex01/solution/
+labs/ex02/solution/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
