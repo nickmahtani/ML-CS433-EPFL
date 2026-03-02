@@ -1,11 +1,17 @@
-# EPFL Machine Learning Course CS-433
-Machine Learning Course, Fall 2025
+# EPFL CS-433 Machine Learning
 
-The course website and syllabus is available here: https://epfml.github.io/cs433-2025/
+Working through the exercises from EPFL's [CS-433 Machine Learning](https://www.epfl.ch/labs/mlo/machine-learning-cs-433/) course (Fall 2025) as part of my self-directed study in machine learning fundamentals.
 
-This repository contains all lecture notes, labs and projects - resources, code templates and solutions.
-Organizational information is available at the course website [here](https://epfml.github.io/cs433-2025/courseinfo/).
+## Exercise Progress
 
-Videos will be available after each lecture on [the mediaspace channel](https://mediaspace.epfl.ch/channel/CS-433+Machine+learning/55647), including also the previous year's 2024 and 2023 videos.
+- [x] **Ex01** — NumPy, data loading, standardization, linear algebra basics
+- [x] **Ex02** — Gradient descent, stochastic GD, grid search, cost functions
+- [ ] Ex03–Ex08
 
-Contact us if you have any questions, via the [discussion forum](https://edstem.org/eu/courses/2577/discussion/) (for EPFL students), or email to the assistants or teachers. Please create issues and pull requests here using the menu above.
+## Course Repo
+
+Forked from [epfml/ML_course](https://github.com/epfml/ML_course). My work is in the `labs/` exercise templates.
+
+## Tech Stack
+
+Python · NumPy · Matplotlib · Jupyter
