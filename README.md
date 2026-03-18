@@ -6,8 +6,8 @@ Working through the exercises from EPFL's [CS-433 Machine Learning](https://epfm
 
 | Exercise | Topic | Notebook | Notes |
 |----------|-------|----------|-------|
-| Ex01 ✅ | NumPy, data loading, standardization | [notebook](labs/ex01/template/ex01.ipynb) | |
-| Ex02 ✅ | Gradient descent, SGD, grid search, cost functions | [notebook](labs/ex02/template/ex02.ipynb) | |
+| Ex01 ✅ | NumPy, data loading, standardization | [notebook](labs/ex01/template/ex01.ipynb) | [notes](notes/ex01_notes.md) |
+| Ex02 ✅ | Gradient descent, SGD, grid search, cost functions | [notebook](labs/ex02/template/ex02.ipynb) | [notes](notes/ex02_notes.md) |
 | Ex03 🔧 | Least squares, polynomial regression, overfitting, ridge regression | [notebook](labs/ex03/template/ex03.ipynb) | [notes](notes/ex03_notes.md) |
 | Ex04 | | [notebook](labs/ex04/template/ex04.ipynb) | |
 | Ex05 | | [notebook](labs/ex05/template/ex05.ipynb) | |
